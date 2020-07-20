@@ -1,0 +1,29 @@
+DIM RANKING
+CREATE TABLE [DimRanking] (
+    [ID] int,
+    [Rank] varchar(50),
+    [Airline] varchar(50),
+    [Country] varchar(50),
+    [Punctuality] varchar(50),
+    [Service_Quality] varchar(50),
+    [Handling_of_passenger_rights] varchar(50)
+)
+
+DIM PASSENGER
+CREATE TABLE [DimPassenger] (
+    [ID] int,
+    [Rank] varchar(50),
+    [Country] varchar(50),
+    [Airline] varchar(50),
+    [Number_of_Passengers] varchar(50)
+)
+
+DIM EMPLOYEE
+
+CREATE TABLE [DimEmployee] (
+    [ID] int,
+    [Rank] varchar(50),
+    [Airline] varchar(50),
+    [Employees] varchar(50),
+    [Revenue] varchar(50)
+)

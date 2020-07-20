@@ -1,0 +1,73 @@
+Rank,Airline,Country,Punctuality,Service Quality,Handling of passenger rights,AirHelp Score,Year
+1,Qatar Airways,Qatar,8.9,9.5,8.9,9.08,2018
+2,Lufthansa,Germany,7.6,9.5,8.6,8.57,2018
+3,Etihad Airways,United Arab Emirates,8.6,9.3,7.5,8.43,2018
+4,Singapore Airlines,Singapore,8.5,9.8,6.8,8.33,2018
+5,South African Airways,South Africa,8.5,7.8,8.7,8.31,2018
+6,Austrian Airlines,Austria,8,8,8.9,8.29,2018
+7,Aegean Airlines,Greece,9,8.3,7.4,8.19,2018
+8,Qantas Airways,Australia,8.9,8,7.5,8.12,2018
+9,Air Malta,Malta,8.6,6.5,9.1,8.09,2018
+10,Virgin Atlantic,United Kingdom,8.2,8,7.9,8.04,2018
+11,KLM Royal Dutch Airlines,Netherlands,8.5,8,7.5,8.01,2018
+12,Norwegian Air,Norway,7.6,7.8,8.6,8,2018
+13,Wizz Air,Hungary,8.8,6,9.1,7.95,2018
+14,Flybe,United Kingdom,8.5,6.3,9.1,7.94,2018
+15,Turkish Airlines,Turkey,7.3,8,8.5,7.94,2018
+16,Emirates,United Arab Emirates,7.8,8.3,7.7,7.91,2018
+17,El Al Israel Airlines,Israel,8.1,6.3,9.4,7.9,2018
+18,Aer Lingus,Ireland,8.4,8,7.3,7.9,2018
+19,Air Dolomiti,Italy,8.6,8,7,7.88,2018
+20,Transavia,France,8.5,6.3,8.9,7.88,2018
+21,British Airways,United Kingdom,7.7,7.8,8.1,7.85,2018
+22,Ethiopian Airlines,Ethiopia,8.4,7.8,7.4,7.85,2018
+23,American Airlines,United States,7.8,6.3,9.5,7.84,2018
+24,Kenya Airways,Kenya,9.2,6.3,7.9,7.79,2018
+25,Luxair,Luxembourg,8.4,6.8,8.2,7.78,2018
+26,Aeromexico,Mexico,7.9,6.3,9.2,7.78,2018
+27,City Jet,Ireland,8,6.3,9,7.77,2018
+28,Latam Airlines,Chile,7.8,6.3,9.3,7.76,2018
+29,LOT Polish Airlines,Poland,7.9,6.3,9.1,7.75,2018
+30,Air Europa,Spain,8.3,6,8.8,7.7,2018
+31,Eurowings,Germany,8,6,9.1,7.7,2018
+32,Croatia Airlines,Croatia,8.1,6.3,8.7,7.69,2018
+33,Swiss International Air Lines ,Switzerland,7.6,8,7.4,7.68,2018
+34,Air France,France,7.5,7.8,7.8,7.67,2018
+35,China Southern Airlines,China,7.4,7.8,7.8,7.65,2018
+36,Scandinavian Airlines,Sweden,7.2,6.5,9.2,7.65,2018
+37,United Airlines,United States,7.9,6,8.9,7.59,2018
+38,Oman Air,Oman,7.3,7.8,7.7,7.57,2018
+39,Ukraine International Airlines,Ukraine,9.1,4.5,8.6,7.42,2018
+40,Air Canada,Canada,5.5,7.8,9,7.41,2018
+41,WestJet Airlines  ,Canada,6.2,6.5,9.5,7.39,2018
+42,Air Baltic Corporation,Latvia,9.1,6.3,6.8,7.37,2018
+43,Finnair,Finland,7,8,7.1,7.37,2018
+44,Air Transat AT,Canada,6.2,6.3,9.7,7.37,2018
+45,Icelandair,Iceland,7.8,6.3,8,7.36,2018
+46,Garuda Indonesia,Indonesia,7.6,9.8,4.8,7.36,2018
+47,Delta Air Lines,United States,8.1,6.5,7.4,7.33,2018
+48,Brussels Airlines,Belgium,7.7,6.3,8.1,7.33,2018
+49,Tarom,Romania,7.8,6.3,7.9,7.31,2018
+50,Saudi Arabian Airlines,Saudi Arabia,8.1,7.8,6,7.29,2018
+51,Thomas Cook Airlines,United Kingdom,8,6.3,7.4,7.23,2018
+52,Adria Airways,Slovenia,7.9,6,7.8,7.23,2018
+53,Avianca,Colombia,7.4,6.5,7.8,7.22,2018
+54,Vueling Airlines,Spain,8.8,6,6.5,7.09,2018
+55,Aeroflot Russian Airlines,Russia,7.9,8,5,6.97,2018
+56,Czech Airlines,Czech Republic,7.4,6,7.1,6.81,2018
+57,Kuwait Airways,Kuwait,7.6,6,6.4,6.66,2018
+58,Air India,India,5.8,6.3,7.8,6.61,2018
+59,Asiana Airlines,South Korea,5.7,9.5,4,6.41,2018
+60,Tap Portugal,Portugal,6.9,6.3,6.1,6.4,2018
+61,Jet2.com,United Kingdom,8.5,6.8,3.8,6.37,2018
+62,Thai Airways,Thailand,6.9,8,4.2,6.36,2018
+63,Jet Airways,India,6.5,6.5,5.6,6.2,2018
+64,Aerolineas Argentinas,Argentina,8.5,6.5,3.6,6.2,2018
+65,Iberia,Spain,8.4,7.8,2.3,6.13,2018
+66,Korean Airlines,South Korea,6.4,8.3,3.7,6.13,2018
+67,Ryanair,Ireland,8.6,6.3,3.3,6.03,2018
+68,Air Mauritius,Mauritius,6.9,7.8,3.3,5.99,2018
+69,Easyjet,United Kingdom,7.9,7.8,1.3,5.66,2018
+70,Pakistan International Airlines,Pakistan,6.1,6,4.2,5.43,2018
+71,Royal Jordanian Airlines,Jordan,8.3,6.3,0.8,5.13,2018
+72,Royal Jordanian Airlines,Iceland,7.5,6,1.7,5.04,2018

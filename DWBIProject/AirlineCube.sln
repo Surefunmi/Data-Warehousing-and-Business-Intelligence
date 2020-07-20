@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AirlineCube", "AirlineCube\AirlineCube.dwproj", "{A74B6AE7-74F7-471A-8966-B389DC608571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74B6AE7-74F7-471A-8966-B389DC608571}.Development|Default.ActiveCfg = Development
+		{A74B6AE7-74F7-471A-8966-B389DC608571}.Development|Default.Build.0 = Development
+		{A74B6AE7-74F7-471A-8966-B389DC608571}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {567280A7-1765-4361-9FE7-01172E73279D}
+	EndGlobalSection
+EndGlobal

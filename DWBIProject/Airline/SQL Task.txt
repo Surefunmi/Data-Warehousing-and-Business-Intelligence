@@ -1,0 +1,28 @@
+INSERT INTO [dbo].[DimRanking] (
+[Rank_ID],
+[Rank],
+[Airline],
+[Country],
+[Punctuality],
+[Service_Quality],
+[Handling_of_passenger_rights]
+)
+SELECT * FROM [dbo].[RawDataRanking]
+
+INSERT INTO [dbo].[DimPassenger] (
+[P_ID],
+[Rank],
+[Country],
+[Airline],
+[2018] 
+)
+SELECT * FROM [dbo].[RawDataPassnger]
+
+INSERT INTO [dbo].[DimEmployee] (
+[E_ID],
+[Rank],
+[Airline],
+[Employee],
+[Revenue]
+)
+SELECT * FROM [dbo].[RawDataEmployee]

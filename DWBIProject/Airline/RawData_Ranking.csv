@@ -1,0 +1,72 @@
+"Rank","Airline","Country","Punctuality","Service_Quality","Handling_of_passenger_rights","AirHelp_Score"
+1,"Qatar_Airways","Qatar",8.9,9.5,8.9,9.08
+2,"Lufthansa","Germany",7.6,9.5,8.6,8.57
+3,"Etihad_Airways","United Arab Emirates",8.6,9.3,7.5,8.43
+4,"Singapore_Airlines","Singapore",8.5,9.8,6.8,8.33
+5,"South_African_Airways","South Africa",8.5,7.8,8.7,8.31
+6,"Austrian_Airlines","Austria",8,8,8.9,8.29
+7,"Aegean_Airlines","Greece",9,8.3,7.4,8.19
+8,"Qantas_Airways","Australia",8.9,8,7.5,8.12
+9,"Air_Malta","Malta",8.6,6.5,9.1,8.09
+10,"Virgin_Atlantic","United Kingdom",8.2,8,7.9,8.04
+11,"KLM_Royal_Dutch_Airlines","Netherlands",8.5,8,7.5,8.01
+12,"Norwegian_Air","Norway",7.6,7.8,8.6,8
+13,"Wizz_Air","Hungary",8.8,6,9.1,7.95
+14,"Flybe","United Kingdom",8.5,6.3,9.1,7.94
+15,"Turkish_Airlines","Turkey",7.3,8,8.5,7.94
+16,"Emirates","United Arab Emirates",7.8,8.3,7.7,7.91
+17,"El_Al_Israel_Airlines","Israel",8.1,6.3,9.4,7.9
+18,"Aer_Lingus","Ireland",8.4,8,7.3,7.9
+19,"Air_Dolomiti","Italy",8.6,8,7,7.88
+20,"Transavia","France",8.5,6.3,8.9,7.88
+21,"British_Airways","United Kingdom",7.7,7.8,8.1,7.85
+22,"Ethiopian_Airlines","Ethiopia",8.4,7.8,7.4,7.85
+23,"American_Airlines","United States",7.8,6.3,9.5,7.84
+24,"Kenya_Airways","Kenya",9.2,6.3,7.9,7.79
+25,"Luxair","Luxembourg",8.4,6.8,8.2,7.78
+26,"Aeromexico","Mexico",7.9,6.3,9.2,7.78
+27,"City_Jet","Ireland",8,6.3,9,7.77
+28,"Latam_Airlines","Chile",7.8,6.3,9.3,7.76
+29,"LOT_Polish_Airlines","Poland",7.9,6.3,9.1,7.75
+30,"Air_Europa","Spain",8.3,6,8.8,7.7
+31,"Eurowings","Germany",8,6,9.1,7.7
+32,"Croatia_Airlines","Croatia",8.1,6.3,8.7,7.69
+33,"Swiss_International_Air_Lines ","Switzerland",7.6,8,7.4,7.68
+34,"Air_France","France",7.5,7.8,7.8,7.67
+35,"China_Southern_Airlines","China",7.4,7.8,7.8,7.65
+36,"Scandinavian_Airlines","Sweden",7.2,6.5,9.2,7.65
+37,"United_Airlines","United States",7.9,6,8.9,7.59
+38,"Oman_Air","Oman",7.3,7.8,7.7,7.57
+39,"Ukraine_International_Airlines","Ukraine",9.1,4.5,8.6,7.42
+40,"Air_Canada","Canada",5.5,7.8,9,7.41
+41,"WestJet_Airlines","Canada",6.2,6.5,9.5,7.39
+42,"Air_Baltic_Corporation","Latvia",9.1,6.3,6.8,7.37
+43,"Finnair","Finland",7,8,7.1,7.37
+44,"Air_Transat_AT","Canada",6.2,6.3,9.7,7.37
+45,"Icelandair","Iceland",7.8,6.3,8,7.36
+46,"Garuda_Indonesia","Indonesia",7.6,9.8,4.8,7.36
+47,"Delta_Air_Lines","United States",8.1,6.5,7.4,7.33
+48,"Brussels_Airlines","Belgium",7.7,6.3,8.1,7.33
+49,"Tarom","Romania",7.8,6.3,7.9,7.31
+50,"Saudi_Arabian_Airlines","Saudi Arabia",8.1,7.8,6,7.29
+51,"Thomas_Cook_Airlines","United Kingdom",8,6.3,7.4,7.23
+52,"Adria_Airways","Slovenia",7.9,6,7.8,7.23
+53,"Avianca","Colombia",7.4,6.5,7.8,7.22
+54,"Vueling_Airlines","Spain",8.8,6,6.5,7.09
+55,"Aeroflot_Russian_Airlines","Russia",7.9,8,5,6.97
+56,"Czech_Airlines","Czech Republic",7.4,6,7.1,6.81
+57,"Kuwait_Airways","Kuwait",7.6,6,6.4,6.66
+58,"Air_India","India",5.8,6.3,7.8,6.61
+59,"Asiana_Airlines","South Korea",5.7,9.5,4,6.41
+60,"Tap_Portugal","Portugal",6.9,6.3,6.1,6.4
+61,"Jet2.com","United Kingdom",8.5,6.8,3.8,6.37
+62,"Thai_Airways","Thailand",6.9,8,4.2,6.36
+63,"Jet_Airways","India",6.5,6.5,5.6,6.2
+64,"Aerolineas_Argentinas","Argentina",8.5,6.5,3.6,6.2
+65,"Iberia","Spain",8.4,7.8,2.3,6.13
+66,"Korean_Airlines","South Korea",6.4,8.3,3.7,6.13
+67,"Ryanair","Ireland",8.6,6.3,3.3,6.03
+68,"Air_Mauritius","Mauritius",6.9,7.8,3.3,5.99
+69,"Easyjet","United Kingdom",7.9,7.8,1.3,5.66
+70,"Pakistan_International_Airlines","Pakistan",6.1,6,4.2,5.43
+71,"Royal_Jordanian_Airlines","Jordan",8.3,6.3,0.8,5.13

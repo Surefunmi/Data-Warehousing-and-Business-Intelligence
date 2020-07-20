@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Airlines SSIS", "Airlines SSIS\Airlines SSIS.dtproj", "{2DCDABD2-8056-4EBD-8673-08BCFC0B2470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCDABD2-8056-4EBD-8673-08BCFC0B2470}.Development|Default.ActiveCfg = Development
+		{2DCDABD2-8056-4EBD-8673-08BCFC0B2470}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AAB2CE-9B32-43CC-80F4-27F9D6590717}
+	EndGlobalSection
+EndGlobal

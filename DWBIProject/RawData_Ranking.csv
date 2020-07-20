@@ -1,0 +1,73 @@
+"","Rank","Airline","Country","Punctuality","Service.Quality","Handling.of.passenger.rights","AirHelp.Score","Year"
+"1",1,"Qatar Airways","qatar",8.9,9.5,8.9,9.08,2018
+"2",2,"Lufthansa","germany",7.6,9.5,8.6,8.57,2018
+"3",3,"Etihad Airways","United Arab Emirates",8.6,9.3,7.5,8.43,2018
+"4",4,"Singapore Airlines","singapore",8.5,9.8,6.8,8.33,2018
+"5",5,"South African Airways","South Africa",8.5,7.8,8.7,8.31,2018
+"6",6,"Austrian Airlines AG dba Austrian","austria",8,8,8.9,8.29,2018
+"7",7,"Aegean Airlines","greece",9,8.3,7.4,8.19,2018
+"8",8,"Qantas","australia",8.9,8,7.5,8.12,2018
+"9",9,"Air Malta","malta",8.6,6.5,9.1,8.09,2018
+"10",10,"Virgin Atlantic","United Kingdom",8.2,8,7.9,8.04,2018
+"11",11,"KLM Royal Dutch Airlines","Netherlands",8.5,8,7.5,8.01,2018
+"12",12,"norwegian","norway",7.6,7.8,8.6,8,2018
+"13",13,"Wizz Air","hungary",8.8,6,9.1,7.95,2018
+"14",14,"flybe","United Kingdom",8.5,6.3,9.1,7.94,2018
+"15",15,"Turkish Airlines","turkey",7.3,8,8.5,7.94,2018
+"16",16,"Emirates","United Arab Emirates",7.8,8.3,7.7,7.91,2018
+"17",17,"El Al Israel Airlines","israel",8.1,6.3,9.4,7.9,2018
+"18",18,"Aer Lingus","ireland",8.4,8,7.3,7.9,2018
+"19",19,"Air Dolomiti","italy",8.6,8,7,7.88,2018
+"20",20,"Transavia.com","france",8.5,6.3,8.9,7.88,2018
+"21",21,"British Airways","United Kingdom",7.7,7.8,8.1,7.85,2018
+"22",22,"Ethiopian Airlines","ethiopia",8.4,7.8,7.4,7.85,2018
+"23",23,"American Airlines","USA",7.8,6.3,9.5,7.84,2018
+"24",24,"Kenya Airways","kenya",9.2,6.3,7.9,7.79,2018
+"25",25,"Luxair","luxembourg",8.4,6.8,8.2,7.78,2018
+"26",26,"Aeromexico","mexico",7.9,6.3,9.2,7.78,2018
+"27",27,"City Jet","ireland",8,6.3,9,7.77,2018
+"28",28,"Latam Airlines","chile",7.8,6.3,9.3,7.76,2018
+"29",29,"LOT Polish Airlines","poland",7.9,6.3,9.1,7.75,2018
+"30",30,"Air Europe","spain",8.3,6,8.8,7.7,2018
+"31",31,"Eurowings","germany",8,6,9.1,7.7,2018
+"32",32,"Croatia Airlines","croatia",8.1,6.3,8.7,7.69,2018
+"33",33,"Swiss","switzerland",7.6,8,7.4,7.68,2018
+"34",34,"Air France","france",7.5,7.8,7.8,7.67,2018
+"35",35,"China Southern Airlines","china",7.4,7.8,7.8,7.65,2018
+"36",36,"SAS Scandinavian Airlines","sweden",7.2,6.5,9.2,7.65,2018
+"37",37,"United Airlines","USA",7.9,6,8.9,7.59,2018
+"38",38,"Oman Air","oman",7.3,7.8,7.7,7.57,2018
+"39",39,"Ukraine International Airlines","ukraine",9.1,4.5,8.6,7.42,2018
+"40",40,"Air Canada","Canada",5.5,7.8,9,7.41,2018
+"41",41,"Westjet","Canada",6.2,6.5,9.5,7.39,2018
+"42",42,"Air Baltic Corporation","latvia",9.1,6.3,6.8,7.37,2018
+"43",43,"Finnair","finland",7,8,7.1,7.37,2018
+"44",44,"Air Transat ATInc.","Canada",6.2,6.3,9.7,7.37,2018
+"45",45,"Icelandair","iceland",7.8,6.3,8,7.36,2018
+"46",46,"Garuda Indonesia","indonesia",7.6,9.8,4.8,7.36,2018
+"47",47,"Delta Air Lines","USA",8.1,6.5,7.4,7.33,2018
+"48",48,"Brussels Airlines","belgium",7.7,6.3,8.1,7.33,2018
+"49",49,"Tarom","romania",7.8,6.3,7.9,7.31,2018
+"50",50,"Saudi Arabian Airlines","Saudi Arabia",8.1,7.8,6,7.29,2018
+"51",51,"Thomas Cook Airlines","United Kingdom",8,6.3,7.4,7.23,2018
+"52",52,"Adria Airways","slovenia",7.9,6,7.8,7.23,2018
+"53",53,"Avianca","colombia",7.4,6.5,7.8,7.22,2018
+"54",54,"Vueling Airlines","spain",8.8,6,6.5,7.09,2018
+"55",55,"Aeroflot Russian Airlines","russia",7.9,8,5,6.97,2018
+"56",56,"Czech Airlines","Czechia",7.4,6,7.1,6.81,2018
+"57",57,"Kuwait Airways","kuwait",7.6,6,6.4,6.66,2018
+"58",58,"Air India","india",5.8,6.3,7.8,6.61,2018
+"59",59,"Asiana Airlines","South Korea",5.7,9.5,4,6.41,2018
+"60",60,"Tap Portugal","Portugal",6.9,6.3,6.1,6.4,2018
+"61",61,"Jet2.com","United Kingdom",8.5,6.8,3.8,6.37,2018
+"62",62,"Thai Airways","thailand",6.9,8,4.2,6.36,2018
+"63",63,"Jet Airways","india",6.5,6.5,5.6,6.2,2018
+"64",64,"Aerolineas Argentinas","argentina",8.5,6.5,3.6,6.2,2018
+"65",65,"Iberia","spain",8.4,7.8,2.3,6.13,2018
+"66",66,"Korean Air","South Korea",6.4,8.3,3.7,6.13,2018
+"67",67,"Ryanair","ireland",8.6,6.3,3.3,6.03,2018
+"68",68,"Air Mauritius","mauritius",6.9,7.8,3.3,5.99,2018
+"69",69,"Easyjet","United Kingdom",7.9,7.8,1.3,5.66,2018
+"70",70,"Pakistan International Airlines","pakistan",6.1,6,4.2,5.43,2018
+"71",71,"Royal Jordanian Airlines","jordan",8.3,6.3,0.8,5.13,2018
+"72",72,"WOW Air","iceland",7.5,6,1.7,5.04,2018
